@@ -1,9 +1,14 @@
 # React + Vite
 
 Create command `npm create vite@latest ems-frontend`
+
 framework : React
+
 Variant : Javascript
+
 Run Command `npm run dev`
+
+Install Bootstrap `npm install bootstrap --save`
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
